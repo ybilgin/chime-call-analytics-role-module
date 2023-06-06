@@ -1,0 +1,2 @@
+aws_account              = "111111111111111"
+recording_s3_bucket_name = "recording-bucket"
